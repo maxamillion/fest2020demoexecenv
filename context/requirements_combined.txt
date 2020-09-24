@@ -1,0 +1,2 @@
+requests>=2.18.4  # from collection google.cloud,user
+google-auth>=1.3.0  # from collection google.cloud,user
