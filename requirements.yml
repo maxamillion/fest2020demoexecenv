@@ -2,3 +2,4 @@
 collections:
   - name: kyleabenson.fest2020collection
   - name: google.cloud
+  - name: community.crypto
