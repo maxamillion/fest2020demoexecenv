@@ -1,2 +1,11 @@
+ansible-pylibssh  # from collection ansible.netcommon
+jxmlease  # from collection ansible.netcommon
+ncclient  # from collection ansible.netcommon
+selectors2  # from collection ansible.netcommon
+netaddr  # from collection ansible.netcommon
+paramiko  # from collection ansible.netcommon
+xmltodict  # from collection ansible.netcommon
+openshift>=0.6.2  # from collection community.kubernetes,user
+requests-oauthlib  # from collection community.kubernetes
 requests>=2.18.4  # from collection google.cloud,user
 google-auth>=1.3.0  # from collection google.cloud,user

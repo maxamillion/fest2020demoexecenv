@@ -3,3 +3,12 @@ collections:
   - name: kyleabenson.fest2020collection
   - name: google.cloud
   - name: community.crypto
+  - name: community.kubernetes
+  - name: community.general
+  - name: ansible.posix
+
+
+roles:
+  - src: geerlingguy.repo-epel
+  - src: robertdebock.rpmfusion
+  - src: jaredhocutt.brave_browser
